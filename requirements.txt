@@ -1,0 +1,13 @@
+tensorflow>=2.12
+tensorflow-datasets
+tensorflow-hub
+opencv-python
+pillow
+streamlit
+nltk
+tqdm
+matplotlib
+scikit-image
+h5py
+numpy
+pandas
